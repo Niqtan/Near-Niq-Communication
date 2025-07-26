@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC Part #,Total (USD)
+220nF Unpolarized capacitor,C1,C_0603_1608Metric,220nF,$0.56
+LG R971-KN-1 Light emitting diode,D1,LED_0201_0603Metric,C5456999,$1.05
+100Ω Resistor,R1,R_0603_1608Metric,C14675,$0.10
+NT3H2111W0FHKH,U1,QFN8P50_160X160X50L40X20N,C710403,$4.43
+,,,,
+,,,,
+Shipping & etc,,,,
+PCB,,,,$3.00
+Shipping ,,,,14.56
+Total,,,,$23.70
