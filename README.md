@@ -7,16 +7,19 @@ P.S. This was a workshop in the hack club jams https://jams.hackclub.com/jam/hac
 
 ## PCB
 
-![alt text](Screenshots/2.png)
+![alt text](Screenshot/2.png)
 Image 1. Top view of the 
 
-![alt text](Screenshots/3.png)
+![alt text](Screenshot/3.png)
 
 ## Layout and Schematic
-![alt text](Screenshots/1.png)
+![alt text](Screenshot/1.png)
 
-![alt text](Screenshots/4.png)
+![alt text](Screenshot/4.png)
 
 ## BOM
 [View the bom](BOM.csv)
+
+## Firmware
+Will be flashing the firmware given by Hack Club!
 

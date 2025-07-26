@@ -16,10 +16,10 @@ The only entry I have in this project lol. Anyways, I finished up the schematic 
 The best part about this thing is probably the silkscreen design.
 
 Here's the full project
-![alt text](Screenshots/1.png)
-![alt text](Screenshots/2.png)
-![alt text](Screenshots/3.png)
-![alt text](Screenshots/4.png)
+![alt text](Screenshot/1.png)
+![alt text](Screenshot/2.png)
+![alt text](Screenshot/3.png)
+![alt text](Screenshot/4.png)
 
 
 I'm excited to start using this project!
