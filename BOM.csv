@@ -1,11 +1,12 @@
 Comment,Designator,Footprint,LCSC Part #,Total (USD)
-220nF Unpolarized capacitor,C1,C_0603_1608Metric,CL10B224KA8NNNC,$0.56
-LG R971-KN-1 Light emitting diode,D1,LED_0201_0603Metric,C5456999,$1.05
-100Ω Resistor,R1,R_0603_1608Metric,C14675,$0.10
-NT3H2111W0FHKH,U1,QFN8P50_160X160X50L40X20N,C710403,$4.43
+220nF Unpolarized capacitor,C1,C_0603_1608Metric,C21120,Price too small; neglilegeble
+16-219A/T2D-AR2T1QY/3T,D1,LED_0402_1005Metric,"C74342
+",Price too small; neglilegeble
+LG R971-KN-1 Light emitting diode,D2,LED_0805_2012Metric,C5456999,Price too small; neglilegeble
+100Ω Resistor,"R1, R2",R_0603_1608Metric,C14675,Price too small; neglilegeble
+NT3H2111W0FHKH,U1,QFN8P50_160X160X50L40X20N,C710403,$4.41
 ,,,,
-,,,,
-Shipping & etc,,,,
-PCB,,,,$3.00
-Shipping ,,,,14.56
-Total,,,,$23.70
+Other Stuff,,,,
+PCB ,N/A,N/A,N/A,$18
+Shipping,N/A,N/A,N/A,$5.52
+Total,,,,$28.14
